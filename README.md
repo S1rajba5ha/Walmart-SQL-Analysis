@@ -44,7 +44,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
    business applies and what modificatoins are needed to gain more sales.
 
 3. Customer Analysis:-
-   This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+ <  This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
    
 ## Questions for Analysis
 
